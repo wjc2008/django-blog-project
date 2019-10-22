@@ -13,7 +13,7 @@ pytest-django = "*"
 django-dynamic-fixture = "*"
 
 [packages]
-django = "*"
+django = "==2.2.3"
 django-allauth = "*"
 django-contrib-comments = "*"
 django-mptt = "*"
